@@ -1,0 +1,27 @@
+.contain{
+    box-shadow: 0px 0px 3px black;
+    border-radius: 15px;
+    background-color: lightpink;
+}
+
+.datashowdiv{
+    height: 20rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputadhardiv input{
+height: 100%;
+width: 100%;
+box-shadow: 0px 0px 3px black;
+outline: none;
+border-radius: 10px;
+border: none;
+}
+.detaisldiv{
+    box-shadow: 0px 0px 3px black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+}

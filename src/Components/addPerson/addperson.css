@@ -1,0 +1,79 @@
+.addheadpart {
+    background-color: rgba(54, 54, 237, 0.921);
+    height: 2rem;
+
+}
+
+/* .col2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    color: white;
+} */
+
+
+.mainpart {
+    box-shadow: 0px 0px 3px black;
+    border-radius: 15px;
+    background-color: lightpink;
+}
+
+.row1 {
+    box-shadow: 0px 0px 3px black;
+    border-radius: 20px;
+    background-color: white;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thead{
+    background-color: rgb(60, 60, 255);
+    color: white;
+    text-align: center;
+}
+
+
+
+
+.age input{
+    border: none;
+    /* width: 50%; */
+}
+.btndiv{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.btndiv button{
+  /* width: 10rem; */
+  margin-top: 2rem;
+   margin-bottom: 1rem;
+}
+.tbody{
+    color: black;
+    text-align: center;
+}
+.names{
+    text-transform: capitalize;
+}
+.btn2{
+    height: 1.3rem;
+    color: blue;
+ border: none;
+ font-size: .7rem;
+ margin: .1rem;
+}
+.btn2:hover{
+    background-color: rgb(157, 157, 157);
+}
+
+.trmain td{
+    text-align: center;
+}
+
+.inputetext td input{
+    text-align: center;
+}
